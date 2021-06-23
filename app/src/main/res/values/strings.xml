@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BottomDialog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="offline">Offline</string>
+    <string name="journal">Journal</string>
+    <string name="helpers">Helpers</string>
+    <string name="just_rules">Rules</string>
+    <string name="more">More</string>
+    <string name="error_trouble">Oops some error occurred.</string>
+    <string name="are_you_sure_exit">Please click back again to exit</string>
+    <string name="default_internet_message">No internet connection.</string>
+    <string name="summary">Summary</string>
+    <string name="my_account">My Account</string>
+    <string name="faq">FAQ</string>
+    <string name="support">Support</string>
+    <string name="health_info">Health Info</string>
+    <string name="patients">Patients</string>
+    <string name="faq_txt">FAQ</string>
+    <string name="support_txt">Support</string>
+    <string name="profile_txt">Profile</string>
+    <string name="hello_blank_afragment">Hello A fragment</string>
+    <string name="hello_blank_bfragment">Hello B fragment</string>
+    <string name="hello_blank_cfragment">Hello C fragment</string>
+    <string name="hello_blank_nestedfragment">Hello Nested fragment</string>
+    <string name="password_blank_validation_msg">Password cannot be blank</string>
+    <string name="password_validation_msg">Password should contains min. 8 characters, one digit, Special characters, Upper case &amp; lower case letter.</string>
+    <string name="new_password_validation_msg">New password should contains min. 8 characters, one digit, Special characters, Upper case &amp; lower case letter.</string>
+</resources>

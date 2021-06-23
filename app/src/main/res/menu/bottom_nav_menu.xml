@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_journal"
+        android:icon="@drawable/summary_high_res"
+        android:title="@string/journal" />
+
+    <item
+        android:id="@+id/navigation_helper"
+        android:icon="@drawable/ic_outline_group"
+        android:title="@string/helpers" />
+
+    <item
+        android:id="@+id/navigation_rules"
+        android:icon="@drawable/checked_all_high_res"
+        android:title="@string/just_rules" />
+
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/horizontal_split"
+        android:title="@string/more" />
+</menu>
